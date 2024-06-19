@@ -30,5 +30,5 @@ IOS Programming Project
 
 
 
-[![Video Label](http://img.youtube.com/vi/'iBNEGe4vhAI'/0.jpg)](https://youtu.be/'iBNEGe4vhAI')
+[![Video Label](http://img.youtube.com/vi/'iBNEGe4vhAI&t=2s'/0.jpg)](https://youtu.be/'iBNEGe4vhAI&t=2s')
 
