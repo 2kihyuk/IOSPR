@@ -27,4 +27,5 @@ IOS Programming Project
 
 
 
-{% include video id="iBNEGe4vhAI" provider="youtube" %}
+[![YouTube](http://img.youtube.com/vi/iBNEGe4vhAI/0.jpg)](http://www.youtube.com/watch?v=iBNEGe4vhAI)
+
