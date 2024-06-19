@@ -27,9 +27,4 @@ IOS Programming Project
 
 
 
-![image](https://github.com/2kihyuk/IOSPR/assets/115782138/bfba6be9-9788-4e0c-bb78-95ca120237e1)
-
-
-
-[![Video Label](http://img.youtube.com/vi/'iBNEGe4vhAI'/0.jpg)](https://youtu.be/'iBNEGe4vhAI')
-
+{% include video id="iBNEGe4vhAI" provider="youtube" %}
