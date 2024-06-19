@@ -1,9 +1,5 @@
-# IOSPR
-IOS Programming Project
+# IOS Programming Project
 
-
-
-------------------------------
 # IOSPR_Gram
 소셜 미디어 애플리케이션
 
