@@ -27,20 +27,20 @@ struct MainTabView: View {
                     Image(systemName: "plus.square")
                 }
                 .tag(2)
-            VStack{
-                Text("Reels")
-                Button{
-                    
-                    AuthManager.shared.signout()
-                }label:{
-                    Text("로그아웃")
-                }
-            }
-            
-                .tabItem{
-                    Image(systemName: "video.fill")
-                }
-                .tag(3)
+//            VStack{
+//                Text("Reels")
+//                Button{
+//                    
+//                    AuthManager.shared.signout()
+//                }label:{
+//                    Text("로그아웃")
+//                }
+//            }
+//            
+//                .tabItem{
+//                    Image(systemName: "video.fill")
+//                }
+//                .tag(3)
             ProfileView()
                 .tabItem{
                     Image(systemName: "person.circle")

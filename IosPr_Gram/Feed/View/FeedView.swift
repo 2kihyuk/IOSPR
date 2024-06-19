@@ -99,12 +99,17 @@ struct FeedView: View {
             ScrollView {
                 VStack {
                     HStack {
-                        Image("instagramLogo2")
+                        Image("IOSPR_GRAM")
                         
                             .resizable()
                             .scaledToFit()
                             .frame(width: 110)
                         Spacer()
+                        Button{
+                            AuthManager.shared.signout()
+                            }label:{
+                            Text("로그아웃")
+                                }
                         Image(systemName: "heart")
                             .imageScale(.large)
                         Image(systemName: "paperplane")
